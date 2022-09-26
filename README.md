@@ -36,6 +36,37 @@ List of software packages for Nanopore sequencing data analysis, including basec
 - [f5c eventalign](https://github.com/hasindu2008/f5c) - [C/C++/CUDA] - [GPU accelerated adaptive banded event alignment for rapid comparative nanopore signal analysis](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03697-x)
 - [SquiggleKit Segmenter/MotifSeq](https://github.com/Psy-Fer/SquiggleKit) - [Python] - [SquiggleKit: a toolkit for manipulating nanopore signal data](https://academic.oup.com/bioinformatics/article/35/24/5372/5537108)
 
+
+### Long read aligner
+- [lordfast](https://github.com/vpc-ccg/lordfast)
+- [TandemTools](https://github.com/ablab/TandemTools)
+- [graphmap](https://github.com/isovic/graphmap)
+- [MashMap](https://github.com/marbl/MashMap)
+- [Winnowmap](https://github.com/marbl/Winnowmap)
+- [minimap2](https://github.com/lh3/minimap2)
+- [LRA](https://github.com/ChaissonLab/LRA)
+- [ngmlr](https://github.com/philres/ngmlr)
+- [duplomap](https://gitlab.com/tprodanov/duplomap)
+- [mapAlign](https://github.com/yw575/mapAlign)
+- [Vulcan](https://gitlab.com/treangenlab/vulcan)
+
+
+
+
+
+### Structural variation detection
+- [DeBreak](https://github.com/Maggi-Chen/DeBreak) - [Python] - [A SV caller for long-read single-molecular sequencing data](https://assets.researchsquare.com/files/rs-1261915/v1_covered.pdf?c=1642787235)
+- [svim](https://github.com/eldariont/svim): Structural Variant Identification Method using Long Reads
+- [Sniffles](https://github.com/fritzsedlazeck/Sniffles): Structural variation caller using third generation sequencing
+- [NanoSV](https://github.com/mroosmalen/nanosv): SV caller for nanopore data
+- [pbsv](https://github.com/PacificBiosciences/pbsv): PacBio structural variant (SV) calling and analysis tools
+- [NanoVar](https://github.com/benoukraflab/NanoVar): Structural variant caller using low-depth Nanopore sequencing
+- [cuteSV](https://github.com/tjiangHIT/cuteSV): Long read based human genomic structural variation detection
+- [SVLR](https://github.com/GWYSDU/SVLR)
+- [SENSV](https://github.com/HKU-BAL/SENSV)
+- [dysgu](https://github.com/kcleal/dysgu)
+
+
 ### DNA modification analysis
 
 - [Megalodon](https://github.com/nanoporetech/megalodon) - [C++] - Research modified base caller which uses rerio, remora and a genome.
