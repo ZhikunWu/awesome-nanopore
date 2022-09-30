@@ -66,6 +66,12 @@ List of software packages for Nanopore sequencing data analysis, including basec
 - [SENSV](https://github.com/HKU-BAL/SENSV)
 - [dysgu](https://github.com/kcleal/dysgu)
 
+### Tandem repeats
+
+- [straglr](https://github.com/bcgsc/straglr): Short-tandem repeat genotyping using long reads
+
+
+
 
 ### DNA modification analysis
 
